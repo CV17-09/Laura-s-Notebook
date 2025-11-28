@@ -568,7 +568,7 @@ MonoBehaviour:
   - {fileID: -178175496, guid: b86a51b6d9af2904c804429fe0aca197, type: 3}
   - {fileID: -26856693, guid: b86a51b6d9af2904c804429fe0aca197, type: 3}
   - {fileID: -435899598, guid: b86a51b6d9af2904c804429fe0aca197, type: 3}
-  nextSceneName: Level 1 Game Scene
+  nextSceneName: Village Stage
 --- !u!4 &1786793493
 Transform:
   m_ObjectHideFlags: 0
