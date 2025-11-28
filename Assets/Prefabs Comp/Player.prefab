@@ -86,7 +86,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -6993818401959049018, guid: 20057ebb54f0ebc46919123e16da51f5, type: 3}
+  m_Sprite: {fileID: 2626991849474143165, guid: 20057ebb54f0ebc46919123e16da51f5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -318,6 +318,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PlayerHealth
   maxHealth: 3
   currentHealth: 0
+  uiHearts: {fileID: 0}
   deathScreen: {fileID: 0}
 --- !u!70 &2037911154595929293
 CapsuleCollider2D:
