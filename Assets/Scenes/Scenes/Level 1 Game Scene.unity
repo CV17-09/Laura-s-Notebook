@@ -2599,6 +2599,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 204351263141217789, guid: ed0b10d874d66124e9f72afe70539941, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 2626991849474143165, guid: 20057ebb54f0ebc46919123e16da51f5, type: 3}
     - target: {fileID: 1393334919925426777, guid: ed0b10d874d66124e9f72afe70539941, type: 3}
       propertyPath: deathScreen
       value: 

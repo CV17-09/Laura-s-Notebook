@@ -103,12 +103,12 @@ TextureImporter:
       name: Rat_Idle_0
       rect:
         serializedVersion: 2
-        x: 250
-        y: 375
-        width: 1673
-        height: 1042
+        x: 78
+        y: 102
+        width: 425
+        height: 268
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -125,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: cc24e59dda3a4764ab86b198a68db3ce
     internalID: 0
     vertices: []
     indices: 
